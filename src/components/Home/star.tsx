@@ -11,7 +11,7 @@ const STAR: React.FC = () => {
       {/* 背景图片 */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/images/img_home_bg_star.png"
+          src="/images/home/img_home_bg_star.png"
           alt="Background"
           fill
           className="object-cover w-full h-full"
@@ -40,7 +40,7 @@ const STAR: React.FC = () => {
                 {[1, 2, 3, 4, 5].map((star) => (
                   <Image
                     key={star}
-                    src="/images/icon_lab_star.png"
+                    src="/images/icon/icon_lab_star.png"
                     alt="Star"
                     width={20}
                     height={20}

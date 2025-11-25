@@ -57,7 +57,7 @@ const Footer: React.FC = () => {
               aria-label="Download on the App Store"
             >
               <Image 
-                src="/images/icon_btn_hero_appstore.png" 
+                src="/images/icon/icon_btn_hero_appstore.png" 
                 alt="App Store" 
                 width={150} 
                 height={40} 
@@ -72,7 +72,7 @@ const Footer: React.FC = () => {
               aria-label="Get it on Google Play"
             >
               <Image 
-                src="/images/icon_btn_hero_googleplay.png" 
+                src="/images/icon/icon_btn_hero_googleplay.png" 
                 alt="Google Play" 
                 width={150} 
                 height={40} 
@@ -99,7 +99,7 @@ const Footer: React.FC = () => {
           aria-label="Back to top"
         >
           <Image 
-            src="/images/icon_btn_uptotop.png" 
+            src="/images/icon/icon_btn_uptotop.png" 
             alt="Back to top" 
             width={120} 
             height={120} 
@@ -112,7 +112,7 @@ const Footer: React.FC = () => {
           aria-label="Chat support"
         >
           <Image 
-            src="/images/icon_btn_message.png" 
+            src="/images/icon/icon_btn_message.png" 
             alt="Chat support" 
             width={120} 
             height={120} 

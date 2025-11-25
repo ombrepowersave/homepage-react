@@ -119,7 +119,7 @@ const ROI: React.FC = () => {
               className=" transform transition-all duration-300 hover:scale-105 bg-transparent flex justify-center"
             >
               <Image
-                src="/images/icon_btn_roi_submit.png"
+                src="/images/icon/icon_btn_roi_submit.png"
                 alt="Estimate your earnings"
                 width={800}
                 height={150}

@@ -9,7 +9,7 @@ const Hero: React.FC = () => {
       {/* 背景图片 */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/images/img_background_home_1920_1080.png"
+          src="/images/home/img_home_bg_hero_1920_1080.png"
           alt="Background"
           fill
           className="object-cover w-full h-full"
@@ -44,7 +44,7 @@ const Hero: React.FC = () => {
           {/* 按钮1 - Estimate Earnings */}
             <button className="transform transition-all duration-300 hover:scale-105 bg-transparent flex justify-center">
               <Image
-                src="/images/icon_btn_hero_earnings.png"
+                src="/images/icon/icon_btn_earnings.png"
                 alt="Estimate Earnings"
                 width={300}
                 height={60}
@@ -57,7 +57,7 @@ const Hero: React.FC = () => {
             {/* 按钮2 - App Store */}
             <button className="transform transition-all duration-300 hover:scale-105 bg-transparent flex justify-center">
               <Image
-                src="/images/icon_btn_hero_appstore.png"
+                src="/images/icon/icon_btn_appstore.png"
                 alt="App Store"
                 width={300}
                 height={60}
@@ -70,7 +70,7 @@ const Hero: React.FC = () => {
             {/* 按钮3 - Google Play */}
             <button className="transform transition-all duration-300 hover:scale-105 bg-transparent flex justify-center">
               <Image
-                src="/images/icon_btn_hero_googleplay.png"
+                src="/images/icon/icon_btn_googleplay.png"
                 alt="Google Play"
                 width={300}
                 height={60}

@@ -45,7 +45,7 @@ const Header: React.FC = () => {
             aria-label="Download on the App Store"
           >
             <Image
-              src="/images/icon_btn_navbar_download.png"
+              src="/images/icon/icon_btn_navbar_download.png"
               alt="App Store"
               width={150}
               height={40}

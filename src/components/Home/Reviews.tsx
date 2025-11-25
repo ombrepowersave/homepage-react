@@ -131,7 +131,7 @@ const Reviews: React.FC = () => {
               {[1, 2, 3, 4, 5].map((star) => (
                 <Image
                   key={star}
-                  src="/images/icon_lab_star.png"
+                  src="/images/icon/icon_lab_star.png"
                   alt="Star"
                   width={20}
                   height={20}
@@ -161,7 +161,7 @@ const Reviews: React.FC = () => {
                       {Array.from({ length: review.rating }).map((_, i) => (
                         <Image
                           key={i}
-                          src="/images/icon_lab_star.png"
+                          src="/images/icon/icon_lab_star.png"
                           alt="Star"
                           width={16}
                           height={16}
@@ -190,7 +190,7 @@ const Reviews: React.FC = () => {
                       {Array.from({ length: review.rating }).map((_, i) => (
                         <Image
                           key={i}
-                          src="/images/icon_lab_star.png"
+                          src="/images/icon/icon_lab_star.png"
                           alt="Star"
                           width={16}
                           height={16}

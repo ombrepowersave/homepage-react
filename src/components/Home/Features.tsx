@@ -20,7 +20,7 @@ const Features: React.FC = () => {
               <ul className="space-y-3">
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_checked.png"
+                    src="/images/icon/icon_lab_checked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -30,7 +30,7 @@ const Features: React.FC = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_unchecked.png"
+                    src="/images/icon/icon_lab_unchecked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -40,7 +40,7 @@ const Features: React.FC = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_unchecked.png"
+                    src="/images/icon/icon_lab_unchecked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -50,7 +50,7 @@ const Features: React.FC = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_unchecked.png"
+                    src="/images/icon/icon_lab_unchecked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -63,7 +63,7 @@ const Features: React.FC = () => {
             <div className="md:w-1/2">
               <div className="bg-white rounded-2xl overflow-hidden">
                 <Image
-                  src="/images/img_home_feature_1.png"
+                  src="/images/home/img_home_feature_1.png"
                   alt="AI Scheduling"
                   width={600}
                   height={400}
@@ -87,7 +87,7 @@ const Features: React.FC = () => {
               <ul className="space-y-3">
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_unchecked.png"
+                    src="/images/icon/icon_lab_unchecked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -97,7 +97,7 @@ const Features: React.FC = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_checked.png"
+                    src="/images/icon/icon_lab_checked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -107,7 +107,7 @@ const Features: React.FC = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_unchecked.png"
+                    src="/images/icon/icon_lab_unchecked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -117,7 +117,7 @@ const Features: React.FC = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_unchecked.png"
+                    src="/images/icon/icon_lab_unchecked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -130,7 +130,7 @@ const Features: React.FC = () => {
             <div className="md:w-1/2">
               <div className="bg-white rounded-2xl overflow-hidden">
                 <Image
-                  src="/images/img_home_feature_2.png"
+                  src="/images/home/img_home_feature_2.png"
                   alt="Power Saving Visualization"
                   width={600}
                   height={400}
@@ -155,7 +155,7 @@ const Features: React.FC = () => {
               <ul className="space-y-3">
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_unchecked.png"
+                    src="/images/icon/icon_lab_unchecked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -165,7 +165,7 @@ const Features: React.FC = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_unchecked.png"
+                    src="/images/icon/icon_lab_unchecked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -175,7 +175,7 @@ const Features: React.FC = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_checked.png"
+                    src="/images/icon/icon_lab_checked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -185,7 +185,7 @@ const Features: React.FC = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_unchecked.png"
+                    src="/images/icon/icon_lab_unchecked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -198,7 +198,7 @@ const Features: React.FC = () => {
             <div className="md:w-1/2">
               <div className="bg-white rounded-2xl overflow-hidden">
                 <Image
-                  src="/images/img_home_feature_3.png"
+                  src="/images/home/img_home_feature_3.png"
                   alt="Power Outage Warning"
                   width={600}
                   height={400}
@@ -223,7 +223,7 @@ const Features: React.FC = () => {
               <ul className="space-y-3">
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_unchecked.png"
+                    src="/images/icon/icon_lab_unchecked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -233,7 +233,7 @@ const Features: React.FC = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_unchecked.png"
+                    src="/images/icon/icon_lab_unchecked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -243,7 +243,7 @@ const Features: React.FC = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_unchecked.png"
+                    src="/images/icon/icon_lab_unchecked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -253,7 +253,7 @@ const Features: React.FC = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Image
-                    src="/images/icon_lab_checked.png"
+                    src="/images/icon/icon_lab_checked.png"
                     alt="checked"
                     width={20}
                     height={20}
@@ -266,7 +266,7 @@ const Features: React.FC = () => {
             <div className="md:w-1/2">
               <div className="bg-white rounded-2xl overflow-hidden">
                 <Image
-                  src="/images/img_home_feature_4.png"
+                  src="/images/home/img_home_feature_4.png"
                   alt="Multi-device Collaboration"
                   width={600}
                   height={400}

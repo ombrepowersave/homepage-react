@@ -1,5 +1,5 @@
 import Header from '../components/Header/Header';
-import Hero from '../components/Hero/Hero';
+import Hero from '../components/Home/Hero';
 import ROI from '../components/Home/roi';
 import Features from '../components/Home/Features';
 import STAR from '../components/Home/star';

@@ -17,7 +17,7 @@ const Booking: React.FC = () => {
         
         <div className="absolute inset-0 z-0">
             <Image
-              src="/images/img_home_bg_booking_1920_1080.png"
+              src="/images/home/img_home_bg_booking_1920_1080.png"
               alt="Background"
               fill
               className="object-cover"
@@ -44,7 +44,7 @@ const Booking: React.FC = () => {
               {/* Logo 尺寸 132x132px, 颜色 #00C6AE */}
               <div className=" rounded-2xl w-[135px] h-[135px] flex items-center justify-center">
                 <Image
-                  src="/images/icon_logo_132_132.png" // 使用设计稿中 logo 的原始尺寸图片
+                  src="/images/icon/icon_logo.png" // 使用设计稿中 logo 的原始尺寸图片
                   alt="Logo"
                   width={135}
                   height={135}
@@ -91,7 +91,7 @@ const Booking: React.FC = () => {
                     style={{
                       height: '65px', 
                       width: '170px',
-                      backgroundImage: `url(/images/icon_btn_submit.png)`,
+                      backgroundImage: `url(/images/icon/icon_btn_submit.png)`,
                       backgroundSize: 'cover',
                       backgroundPosition: 'center',
                       backgroundRepeat: 'no-repeat',
