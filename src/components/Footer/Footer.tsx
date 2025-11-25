@@ -57,7 +57,7 @@ const Footer: React.FC = () => {
               aria-label="Download on the App Store"
             >
               <Image 
-                src="/images/icon/icon_btn_hero_appstore.png" 
+                src="/images/icon/icon_btn_appstore.png" 
                 alt="App Store" 
                 width={150} 
                 height={40} 
@@ -72,7 +72,7 @@ const Footer: React.FC = () => {
               aria-label="Get it on Google Play"
             >
               <Image 
-                src="/images/icon/icon_btn_hero_googleplay.png" 
+                src="/images/icon/icon_btn_googleplay.png" 
                 alt="Google Play" 
                 width={150} 
                 height={40} 
